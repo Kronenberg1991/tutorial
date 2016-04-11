@@ -1,0 +1,28 @@
+{
+  "name": "tutorials",
+  "version": "1.0.1",
+  "description": "2015 techs",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kronenberg1991/tutorial.git"
+  },
+  "keywords": [
+    "bullshit"
+  ],
+  "author": "Michael Kronenberg",
+  "license": "ayanot",
+  "bugs": {
+    "url": "https://github.com/Kronenberg1991/tutorial/issues"
+  },
+  "homepage": "https://github.com/Kronenberg1991/tutorial",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.3",
+    "lodash": "^4.9.0",
+    "webpack": "^1.12.15"
+  }
+}
